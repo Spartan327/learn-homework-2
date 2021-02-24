@@ -121,3 +121,8 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+#my files
+referat.txt
+referat2.txt
+export.csv
